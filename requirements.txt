@@ -1,4 +1,5 @@
 streamlit
 pandas
 openpyxl
-camelot-py
+camelot-py==0.11.0
+opencv-python-headless
