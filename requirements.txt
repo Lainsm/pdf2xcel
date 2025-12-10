@@ -1,4 +1,4 @@
 streamlit
 pandas
 openpyxl
-camelot-py[cv]
+camelot-py
